@@ -1,5 +1,5 @@
 //OCVRS UI
-//Written by Aaron Myers
+//Written by Aaron Myers and Wileen Chiu
 
 
 //The headers
